@@ -1,51 +1,193 @@
-Date,Details,Amount,Currency,Debit/Credit,Status,
-28 Feb 2025,Card Payment Received,"18,551.62",AED,Credit,SETTLED, 
-15 Feb 2025,EMIRATES INSURANCE,137.95,AED,Debit,SETTLED
-04 Feb 2025,NOON.COM,110.69,AED,Debit,SETTLED
-23 Feb 2025,Card Payment Received,"12,351.42",AED,Credit,SETTLED
-05 Oct 2024,LULU HYPERMARKET,455.00,AED,Debit,SETTLED
-14 Jan 2025,UBER AE,105.84,AED,Debit,SETTLED
-22 Nov 2024,Card Payment Received,"9,941.27",AED,Credit,SETTLED
-08 Dec 2024,Card Payment Received,"11,584.77",AED,Credit,SETTLED
-16 Dec 2024,LULU HYPERMARKET,146.76,AED,Debit,SETTLED
-28 Jan 2025,AMAZON AE,220.54,AED,Debit,SETTLED
-18 Oct 2024,Card Payment Received,"3,788.46",AED,Credit,SETTLED
-16 Nov 2024,SPINNEYS AE,131.56,AED,Debit,SETTLED
-25 Oct 2024,ADCB BANK FEE,25.46,AED,Debit,SETTLED
-15 Mar 2025,NETFLIX.COM,57.55,AED,Debit,SETTLED
-25 Mar 2025,LULU HYPERMARKET,259.55,AED,Debit,SETTLED
-18 Feb 2025,Card Payment Received,"4,532.98",AED,Credit,SETTLED
-23 Mar 2025,SPINNEYS AE,389.93,AED,Debit,SETTLED
-04 Mar 2025,Card Payment Received,"8,422.38",AED,Credit,REVERSED
-26 Oct 2024,SPINNEYS AE,229.70,AED,Debit,SETTLED
-31 Jan 2025,ETIHAD AIRWAYS,"4,986.65",AED,Debit,SETTLED
-30 Dec 2024,APPLE.COM BILL,54.88,AED,Debit,SETTLED
-17 Mar 2025,Card Payment Received,"4,185.27",AED,Credit,SETTLED
-05 Oct 2024,Card Payment Received,"12,325.65",AED,Credit,SETTLED
-17 Feb 2025,NOON.COM,415.17,AED,Debit,SETTLED
-25 Mar 2025,ETIHAD AIRWAYS,"4,017.20",AED,Debit,SETTLED
-23 Oct 2024,ETIHAD AIRWAYS,"2,638.93",AED,Debit,SETTLED
-20 Oct 2024,HILTON DUBAI,"1,053.93",AED,Debit,SETTLED
-29 Nov 2024,AMAZON AE,93.21,AED,Debit,SETTLED
-22 Nov 2024,BOOKING.COM,"1,045.68",AED,Debit,SETTLED
-28 Feb 2025,ADCB BANK FEE,11.67,AED,Debit,SETTLED
-18 Dec 2024,LULU HYPERMARKET,91.64,AED,Debit,SETTLED
-24 Jan 2025,AMAZON AE,342.46,AED,Debit,SETTLED
-20 Dec 2024,ADCB BANK FEE,11.48,AED,Debit,SETTLED
-04 Jan 2025,HILTON DUBAI,809.48,AED,Debit,SETTLED
-25 Nov 2024,Card Payment Received,"4,948.34",AED,Credit,SETTLED
-28 Jan 2025,APPLE.COM BILL,67.16,AED,Debit,SETTLED
-29 Nov 2024,Card Payment Received,"19,926.47",AED,Credit,SETTLED
-16 Mar 2025,SPINNEYS AE,458.06,AED,Debit,SETTLED
-23 Mar 2025,ETIHAD AIRWAYS,"4,488.68",AED,Debit,SETTLED
-22 Oct 2024,APPLE.COM BILL,80.09,AED,Debit,SETTLED
-19 Dec 2024,BOOKING.COM,"1,346.32",AED,Debit,SETTLED
-04 Nov 2024,Card Payment Received,"19,922.21",AED,Credit,SETTLED
-26 Dec 2024,EMIRATES INSURANCE,795.51,AED,Debit,SETTLED
-22 Mar 2025,ZOMATO AE,100.93,AED,Debit,SETTLED
-04 Mar 2025,NETFLIX.COM,33.29,AED,Debit,SETTLED
-23 Mar 2025,AMAZON AE,88.85,AED,Debit,SETTLED
-20 Dec 2024,Card Payment Received,"10,725.22",AED,Credit,SETTLED
-14 Nov 2024,SPINNEYS AE,160.68,AED,Debit,SETTLED
-29 Dec 2024,AMAZON AE,435.43,AED,Debit,SETTLED
-12 Jan 2025,Card Payment Received,"3,082.24",AED,Credit,SETTLED
+Date,Details,Amount,Debit/Credit
+Date,Transaction Details,Amount,Type
+"Oct 06, 2025 07:33 PM",Received from Yash Shivajirao Hambarde Transaction ID : T2510061933193629036525,19.00,Credit
+"Oct 06, 2025 07:33 PM",UTR No : 527926865616,,
+"Oct 06, 2025 07:33 PM",Credited to XX4017,,
+"Oct 06, 2025 07:33 PM",Paid Transaction ID : OMO2510071732366487516562,332.00,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 511125788771,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Received from ******8754 Transaction ID : T2510071734585540297840,1962.00,Credit
+"Oct 06, 2025 07:33 PM",UTR No : 538490307650,,
+"Oct 06, 2025 07:33 PM",Credited to XX4017,,
+"Oct 06, 2025 07:33 PM",Paid Transaction ID : OMO2510071735042847638215,630.00,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 879815636933,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Paid to WWW MYNTRA COM Transaction ID : T2510080248206424786006,1995.00,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 830154383836,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Received from Yash Shivajirao Hambarde Transaction ID : T2510091526216929324431,150.00,Credit
+"Oct 06, 2025 07:33 PM",UTR No : 528256752444,,
+"Oct 06, 2025 07:33 PM",Credited to XX4017,,
+"Oct 06, 2025 07:33 PM",Paid to User Transaction ID : T2510100644566861424523,250.00,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 170073926852,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Paid to Airtel Transaction ID : T2510102246448375715066,26.00,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 968146701269,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",,,
+"Oct 06, 2025 07:33 PM",Paid to User Transaction ID : T2510111048095624967298,100.00,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 053890975133,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Paid to ******8754 Transaction ID : T2510112051320376091721,200.00,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 100624430447,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Paid to User Transaction ID : T2510112244400511181706,100.00,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 385395869625,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Paid to AIRTEL PAYMENTS BANK LIMITED Transaction ID : T2510121227198980444323,49.00,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 860866841819,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Paid to User Transaction ID : T2510121707336955292323,300.00,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 662409143973,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Paid to User Transaction ID : T2510122351266904889400,100.00,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 333735453167,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Paid to User Transaction ID : T2510122351437182363144,100.00,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 406723573375,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Received from Yash Shivajirao Hambarde Transaction ID : T2510130007455036618485,28.00,Credit
+"Oct 06, 2025 07:33 PM",UTR No : 528600286665,,
+"Oct 06, 2025 07:33 PM",Credited to XX4017,,
+"Oct 06, 2025 07:33 PM",Received from Yash Shivajirao Hambarde Transaction ID : T2510130009188986145239,28.10,Credit
+"Oct 06, 2025 07:33 PM",UTR No : 528600291383,,
+"Oct 06, 2025 07:33 PM",Credited to XX4017,,
+"Oct 06, 2025 07:33 PM",,,
+"Oct 06, 2025 07:33 PM",Paid to Airtel Transaction ID : T2510131408591758230311,49.00,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 037711180802,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Received from User Transaction ID : T2510131614238361679149,3500.00,Credit
+"Oct 06, 2025 07:33 PM",UTR No : 403902042659,,
+"Oct 06, 2025 07:33 PM",Credited to XX4017,,
+"Oct 06, 2025 07:33 PM",Received from Yash Shivajirao Hambarde Transaction ID : T2510132233312330444469,50.00,Credit
+"Oct 06, 2025 07:33 PM",UTR No : 528669732301,,
+"Oct 06, 2025 07:33 PM",Credited to XX4017,,
+"Oct 06, 2025 07:33 PM",Paid to WWW AIRTEL IN Transaction ID : T2510140204163673217051,49.00,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 476837948244,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Received from User Transaction ID : T2510141827528343125120,1000.00,Credit
+"Oct 06, 2025 07:33 PM",UTR No : 350134217589,,
+"Oct 06, 2025 07:33 PM",Credited to XX4017,,
+"Oct 06, 2025 07:33 PM",Paid to ZEPTO Transaction ID : T2510150047317045232946,256.00,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 100824938093,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Received from Yash Shivajirao Hambarde Transaction ID : T2510150137574086324275,200.00,Credit
+"Oct 06, 2025 07:33 PM",UTR No : 528824788232,,
+"Oct 06, 2025 07:33 PM",Credited to XX4017,,
+"Oct 06, 2025 07:33 PM",Received Transaction ID : OMO2510071735042847638215,630.00,Credit
+"Oct 06, 2025 07:33 PM",UTR No : 528856414451,,
+"Oct 06, 2025 07:33 PM",Credited to XX4017,,
+"Oct 06, 2025 07:33 PM",Payment Received Transaction ID : T2510150600464710036515,630.00,Credit
+"Oct 06, 2025 07:33 PM",UTR No : 528856414451,,
+"Oct 06, 2025 07:33 PM",Credited to XX4017,,
+"Oct 06, 2025 07:33 PM",,,
+"Oct 06, 2025 07:33 PM",Paid to airtel Transaction ID : T2510170315195359455757,49.00,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 204210381138,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Paid to User Transaction ID : T2510170943277052848175,400.00,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 712951202208,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Paid to User Transaction ID : T2510171256418647781352,200.00,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 864296358158,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Received from Hanmant madhavrao kendre Transaction ID : T2510201140137550242459,200.00,Credit
+"Oct 06, 2025 07:33 PM",UTR No : 955805771853,,
+"Oct 06, 2025 07:33 PM",Credited to XX4017,,
+"Oct 06, 2025 07:33 PM",Received from Pooja Kendre Transaction ID : T2510221457401821477723,49.00,Credit
+"Oct 06, 2025 07:33 PM",UTR No : 784382589042,,
+"Oct 06, 2025 07:33 PM",Credited to XX4017,,
+"Oct 06, 2025 07:33 PM",Paid to ZOMATO LIMITED Transaction ID : T2510231455382127985827,237.81,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 765364775004,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Paid to airtel Transaction ID : T2510231905223182805758,49.00,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 190243823932,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Received from Meet K Transaction ID : T2510232153487364730897,247.00,Credit
+"Oct 06, 2025 07:33 PM",UTR No : 125154015883,,
+"Oct 06, 2025 07:33 PM",Credited to XX4017,,
+"Oct 06, 2025 07:33 PM",Received from Meet K Transaction ID : T2510261440415873647224,69.00,Credit
+"Oct 06, 2025 07:33 PM",UTR No : 816954694656,,
+"Oct 06, 2025 07:33 PM",Credited to XX4017,,
+"Oct 06, 2025 07:33 PM",,,
+"Oct 06, 2025 07:33 PM",Paid to Meet K Transaction ID : T2510261448193548287731,69.00,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 152423527149,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Paid to ZOMATO LIMITED Transaction ID : T2510261528286014483223,185.45,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 907299855039,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Paid to ZOMATO Transaction ID : T2510261541231294231665,473.35,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 935133919940,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Received from Meet K Transaction ID : T2510261610201276551136,186.00,Credit
+"Oct 06, 2025 07:33 PM",UTR No : 637945695616,,
+"Oct 06, 2025 07:33 PM",Credited to XX4017,,
+"Oct 06, 2025 07:33 PM",Paid to IRCTC ECatering Transaction ID : T2510261644317035512559,435.00,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 022853224485,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Received from Yash Shivajirao Hambarde Transaction ID : T2510261644501702717663,200.00,Credit
+"Oct 06, 2025 07:33 PM",UTR No : 529942886669,,
+"Oct 06, 2025 07:33 PM",Credited to XX4017,,
+"Oct 06, 2025 07:33 PM",Paid to User Transaction ID : T2510271044571896760460,400.00,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 565111716222,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Received from User Transaction ID : T2510271106139803292178,400.00,Credit
+"Oct 06, 2025 07:33 PM",UTR No : 276247716040,,
+"Oct 06, 2025 07:33 PM",Credited to XX4017,,
+"Oct 06, 2025 07:33 PM",Paid to User Transaction ID : T2510281338082545549651,500.00,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 617015407776,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",,,
+"Oct 06, 2025 07:33 PM",Received from User Transaction ID : T2510281728329994301013,5000.00,Credit
+"Oct 06, 2025 07:33 PM",UTR No : 361261069379,,
+"Oct 06, 2025 07:33 PM",Credited to XX4017,,
+"Oct 06, 2025 07:33 PM",Received from Yash Shivajirao Hambarde Transaction ID : T2510301122590181376620,154.00,Credit
+"Oct 06, 2025 07:33 PM",UTR No : 530362429550,,
+"Oct 06, 2025 07:33 PM",Credited to XX4017,,
+"Oct 06, 2025 07:33 PM",Paid Transaction ID : OMO2510301136180294509897W,447.00,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 078824130359,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Received Transaction ID : OMO2510301136180294509897W,119.00,Credit
+"Oct 06, 2025 07:33 PM",UTR No : 530301857773,,
+"Oct 06, 2025 07:33 PM",Credited to XX4017,,
+"Oct 06, 2025 07:33 PM",Payment Received Transaction ID : T2510301204501490808901,119.00,Credit
+"Oct 06, 2025 07:33 PM",UTR No : 530301857773,,
+"Oct 06, 2025 07:33 PM",Credited to XX4017,,
+"Oct 06, 2025 07:33 PM",Paid Transaction ID : OMO2510301544021008277397W,119.00,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 315072972976,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Received Transaction ID : OMO2510301136180294509897W,157.00,Credit
+"Oct 06, 2025 07:33 PM",UTR No : 530302830331,,
+"Oct 06, 2025 07:33 PM",Credited to XX4017,,
+"Oct 06, 2025 07:33 PM",Payment Received Transaction ID : T2510301719544009087043,157.00,Credit
+"Oct 06, 2025 07:33 PM",UTR No : 530302830331,,
+"Oct 06, 2025 07:33 PM",Credited to XX4017,,
+"Oct 06, 2025 07:33 PM",Paid to User Transaction ID : T2511011330374662555591,500.00,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 904332751553,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",,,
+"Oct 06, 2025 07:33 PM",Paid to User Transaction ID : T2511012306234593351914,400.00,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 387084033031,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Paid to User Transaction ID : T2511022031459331411878,400.00,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 769584491848,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Received from Yash Shivajirao Hambarde Transaction ID : T2511040056031338174842,207.00,Credit
+"Oct 06, 2025 07:33 PM",UTR No : 530890349529,,
+"Oct 06, 2025 07:33 PM",Credited to XX4017,,
+"Oct 06, 2025 07:33 PM",Paid to User Transaction ID : T2511040830589454378884,200.00,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 600676829682,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Paid to ETERNAL LIMITED Transaction ID : T2511041738229609205835,187.95,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 330750305412,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Paid to OpenAI LLC Transaction ID : OLEX2511041754229618266556,1.00,Debit
+"Oct 06, 2025 07:33 PM",UTR No : 530817022374,,
+"Oct 06, 2025 07:33 PM",Debited from XX4017,,
+"Oct 06, 2025 07:33 PM",Paid to User Transaction ID : T2511041814214876328819,300.00,Debit
+,UTR No : 613912662078,,
+,Debited from XX4017,,
+Page 7 of 7,,,
+This is an automatically generated statement. Customer(s) are requested to immediately notify PhonePe in case of any errors in the statement at https://support.phonepe.com/statement.,,,
+Visit https://www.phonepe.com/terms-conditions/ for PhonePe Terms & Conditions and https://www.phonepe.com /privacy-policy/ for Privacy Policy.,,,
+"Do not fall prey to fictitious offers of winning prizes, money circulation schemes and cheap funds, etc. through SMS, emails and calls.",,,
+"The contents of this email and document are confidential and intended for the recipient specified in this document. If you received this message by mistake, please inform PhonePe at https://support.phonepe.com/statement so that we can ensure the recipient's details are corrected.",,,
